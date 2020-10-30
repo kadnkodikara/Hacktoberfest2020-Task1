@@ -2,7 +2,7 @@
 
 int main()
 {
-    char name[30],country[20],skill;
+    char name[30],country[20],skill;//declare variables
     int age;
     printf("Welcome to Hacktoberfest 2020\n");
     printf("Enter your name : ");//Get User name
